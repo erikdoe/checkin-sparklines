@@ -1,0 +1,25 @@
+h1 {
+	margin: 0;
+    font-family: sans-serif;
+}
+
+.link {
+    font-family: sans-serif;
+    font-size: 75%;
+    color: green;
+}
+
+#developer-table {
+}
+
+#developer-table tr {
+    padding: 0;
+}
+
+#developer-table td {
+    text-align: left;
+    font-family: Sans-serif;
+    vertical-align: bottom;
+    padding: 5px 0.5em 0 5px;
+    background: #EEE  /* to match colour of generated image... */
+}
